@@ -36,4 +36,3 @@ This is a simple Java-based e-commerce system that simulates basic shopping cart
 - Expired products are rejected at cart level.
 - Make sure your system date is appropriate for testing expiry features.
 
-## 📁 Project Structure
